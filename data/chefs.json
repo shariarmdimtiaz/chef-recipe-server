@@ -1,0 +1,379 @@
+[
+  {
+    "_id": "chef001",
+    "name": "Soo-Min Kim",
+    "bio": "Chef Kim is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://image1.masterfile.com/getImage/NzAwLTAyMjg5NjU5ZW4uMDAwMDAwMDA=ALw6Ag/700-02289659en_Masterfile.jpg",
+    "likes": 356,
+    "num_recipes": 3,
+    "years_of_experience": 8,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Bulgogi",
+        "img_url": "https://cdn.pixabay.com/photo/2017/07/19/03/13/pot-2517765_960_720.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup sugar",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "name": "Kimchi Fried Rice",
+        "img_url": "https://cdn.pixabay.com/photo/2014/01/09/10/14/kimchi-fried-rice-241051_960_720.jpg",
+        "ingredients": [
+          "3 cups cooked rice",
+          "1 cup chopped kimchi",
+          "1/2 lb pork belly, sliced",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Jjajangmyeon",
+        "img_url": "https://izzycooking.com/wp-content/uploads/2022/03/Jajangmyeon-1.jpg",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1/2 lb. ground pork",
+          "1 cup chopped onion",
+          "1 cup chopped zucchini",
+          "1 cup chopped potato",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce",
+          "2 tablespoons sugar"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "_id": "chef002",
+    "name": "Baek Jong Won",
+    "bio": "Chef Kim is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://img.freepik.com/premium-photo/asian-chef-cooking-kitchen-restaurant_1286-3268.jpg",
+    "likes": 323,
+    "num_recipes": 3,
+    "years_of_experience": 5,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Bulgogi",
+        "img_url": "https://cdn.pixabay.com/photo/2017/07/19/03/13/pot-2517765_960_720.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup sugar",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "name": "Kimchi Fried Rice",
+        "img_url": "https://cdn.pixabay.com/photo/2014/01/09/10/14/kimchi-fried-rice-241051_960_720.jpg",
+        "ingredients": [
+          "3 cups cooked rice",
+          "1 cup chopped kimchi",
+          "1/2 lb pork belly, sliced",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Sundae",
+        "img_url": "https://media.cnn.com/api/v1/images/stellar/prod/150813155603-korea-food-map-sundae.jpg?q=x_2,y_346,h_898,w_1596,c_crop/h_720,w_1280/f_webp",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1/2 lb. ground meat",
+          "1 cup chopped onion",
+          "vegetables",
+          "1 cup chopped potato",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce",
+          "2 tablespoons sugar"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "_id": "chef003",
+    "name": "Sam Kim",
+    "bio": "Chef Kim is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://media.istockphoto.com/id/1311377080/photo/male-chef.jpg?s=612x612&w=0&k=20&c=VSUqi8yH3zk-tSY64JRj7bkn-eQ1U_K9y_AQdj1hqNg=",
+    "likes": 323,
+    "num_recipes": 3,
+    "years_of_experience": 5,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Bulgogi",
+        "img_url": "https://cdn.pixabay.com/photo/2017/07/19/03/13/pot-2517765_960_720.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup sugar",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "name": "Kimchi Fried Rice",
+        "img_url": "https://cdn.pixabay.com/photo/2014/01/09/10/14/kimchi-fried-rice-241051_960_720.jpg",
+        "ingredients": [
+          "3 cups cooked rice",
+          "1 cup chopped kimchi",
+          "1/2 lb pork belly, sliced",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Bibimbap",
+        "img_url": "https://media.cnn.com/api/v1/images/stellar/prod/150813135423-korea-food-map-bibimbap.jpg?q=x_2,y_83,h_898,w_1596,c_crop/h_720,w_1280/f_webp",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1/2 lb. ground beef",
+          "1 cup chopped onion",
+          "1 cup chopped vegetable",
+          "1 or 2 egg",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce",
+          "2 tablespoons sugar"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.2
+      }
+    ]
+  },
+  {
+    "_id": "chef004",
+    "name": "Lee Yeon Bok",
+    "bio": "Chef Kim is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://image1.masterfile.com/getImage/NzAwLTAyMjg5NjU5ZW4uMDAwMDAwMDA=ALw6Ag/700-02289659en_Masterfile.jpg",
+    "likes": 323,
+    "num_recipes": 3,
+    "years_of_experience": 5,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Bulgogi",
+        "img_url": "https://cdn.pixabay.com/photo/2017/07/19/03/13/pot-2517765_960_720.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup sugar",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "name": "Samgyetang",
+        "img_url": "https://media.cnn.com/api/v1/images/stellar/prod/181114125613-korean-food-2510085201102017k-hwanghu-samgyetang-restaurant.jpg?q=x_0,y_0,h_900,w_1599,c_fill/h_720,w_1280/f_webp",
+        "ingredients": [
+          "1/2 lb chicken, full",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.1
+      },
+      {
+        "name": "Tteokbokki",
+        "img_url": "https://media.cnn.com/api/v1/images/stellar/prod/181115110106-korean-food131201112017k-tteokbokki.jpg?q=x_0,y_0,h_900,w_1599,c_fill/h_720,w_1280/f_webp",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1 cup chopped onion",
+          "1 cup chopped zucchini",
+          "1 cup chopped Tteok",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce",
+          "2 tablespoons sugar"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.9
+      }
+    ]
+  },
+  {
+    "_id": "chef005",
+    "name": "Yim Jung-Sik",
+    "bio": "Chef Kim is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://media-cdn2.greatbritishchefs.com/media/4ryljvyp/gbc_kcc_joo_colour-10.whqc_735x1102q90.jpg",
+    "likes": 476,
+    "num_recipes": 3,
+    "years_of_experience": 2,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Bulgogi",
+        "img_url": "https://cdn.pixabay.com/photo/2017/07/19/03/13/pot-2517765_960_720.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup sugar",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.5
+      },
+      {
+        "name": "Fried Rice",
+        "img_url": "https://www.licious.in/blog/wp-content/uploads/2022/12/Shutterstock_1043177881.jpg",
+        "ingredients": [
+          "3 cups cooked rice",
+          "1 cup chopped kimchi",
+          "1/2 lb meat belly, sliced",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.2
+      },
+      {
+        "name": "Rameon",
+        "img_url": "https://izzycooking.com/wp-content/uploads/2022/03/Jajangmyeon-1.jpg",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1/2 lb. ground meat",
+          "1 cup chopped onion",
+          "1 cup chopped egg",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.8
+      }
+    ]
+  },
+  {
+    "_id": "chef006",
+    "name": "Kang Min-goo",
+    "bio": "Chef Kang Min-goo is a Korean-American who grew up learning traditional Korean cooking from her mother and grandmother. She specializes in creating fusion dishes that combine Korean and Western flavors.",
+    "image_url": "https://media.gettyimages.com/id/1191834329/photo/seoul-woman-chef-cooking-traditional-street-food-in-market-korea.jpg?s=612x612&w=gi&k=20&c=azfCmKrYiDUNWwpyjWp42JBoksVG3b-AgZjGYvvmawc=",
+    "likes": 267,
+    "num_recipes": 3,
+    "years_of_experience": 5,
+    "country": "Korea",
+    "recipes": [
+      {
+        "name": "Kimchi",
+        "img_url": "https://www.platingsandpairings.com/wp-content/uploads/2014/12/Kimchi-5.jpg",
+        "ingredients": [
+          "1 lb thinly sliced beef sirloin",
+          "1/2 cup soy sauce",
+          "1/4 cup chili",
+          "2 tablespoons sesame oil",
+          "1 tablespoon minced garlic",
+          "1 tablespoon grated ginger",
+          "1/4 teaspoon black pepper",
+          "2 tablespoons vegetable oil"
+        ],
+        "method": "1. Mix together the soy sauce, sugar, sesame oil, garlic, ginger, and black pepper in a bowl. \n2. Add the beef to the bowl and toss to coat. \n3. Heat the vegetable oil in a large skillet over medium-high heat. \n4. Add the beef and marinade to the skillet and stir-fry for 5-7 minutes, until the beef is cooked through. \n5. Serve the bulgogi hot with rice and vegetables.",
+        "rating": 4.7
+      },
+      {
+        "name": "Samgyeopsal",
+        "img_url": "https://cdn.shopify.com/s/files/1/0596/6623/5564/files/1906b1a5619fc39102d65306845f0608_480x480.jpg?v=1630735686",
+        "ingredients": [
+          "1/2 lb beef, sliced",
+          "1/2 cup chopped scallions",
+          "2 cloves garlic, minced",
+          "2 tablespoons vegetable oil",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon soy sauce",
+          "1 tablespoon sesame oil",
+          "1/4 teaspoon black pepper"
+        ],
+        "method": "1. Heat the vegetable oil in a large skillet over medium-high heat. \n2. Add the pork belly and stir-fry for 5-7 minutes, until crispy. \n3. Add the garlic and stir-fry for 1-2 minutes. \n4. Add the cooked rice and stir-fry for 2-3 minutes. \n5. Add the chopped kimchi, scallions, gochujang, soy sauce, sesame oil, and black pepper to the skillet and stir-fry for 2-3 minutes. \n6. Serve the kimchi fried rice hot.",
+        "rating": 4.1
+      },
+      {
+        "name": "Jjajangmyeon",
+        "img_url": "https://static.vecteezy.com/system/resources/previews/009/724/335/large_2x/jajangmyeon-or-jjajangmyeon-with-odeng-and-omuk-korean-instant-noodles-with-korean-fish-cake-in-black-bean-sauce-photo.jpg",
+        "ingredients": [
+          "8 oz. Chinese-style noodles",
+          "1/2 lb. ground meat",
+          "1 cup chopped onion",
+          "1 cup chopped zucchini",
+          "1 cup chopped potato",
+          "1 cup chopped cabbage",
+          "2 tablespoons vegetable oil",
+          "2 tablespoons black bean paste",
+          "2 tablespoons soy sauce",
+          "2 tablespoons sugar"
+        ],
+        "method": "1. Cook the noodles according to the package instructions. \n2. Heat the vegetable oil in a large skillet over medium-high heat. \n3. Add the ground pork and stir-fry for 5-7 minutes, until browned. \n4. Add the chopped onion, zucchini, potato, and cabbage to the skillet.",
+        "rating": 3.5
+      }
+    ]
+  }
+]
